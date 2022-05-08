@@ -1,0 +1,11 @@
+/**
+ * @author Vishal Rakesh Jaiswal
+ * @email vs928999@dal.ca
+ */
+.posts-container {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  justify-content: space-around;
+  align-items: center;
+}

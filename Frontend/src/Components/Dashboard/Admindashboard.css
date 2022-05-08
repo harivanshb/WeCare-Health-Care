@@ -1,0 +1,45 @@
+/**
+ * @author Prerak Choksi
+ * @email pc@dal.ca
+ */
+
+.h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+    text-shadow: 1px 1px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+  }
+  .h5{
+    text-align: center;
+    color: darkcyan;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  .grid1{
+    display:block;
+    width: 80%;
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+.grid2{
+  display:block;
+  width: 80%;
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-right: 0px;
+  
+}
+
+.paperstyle{
+    margin: 0px auto;
+    width: 80%;
+    margin-left:30px ;
+    border-radius: 20;
+    border: 1px solid forestgreen;
+    padding-bottom: 20px;
+    transition: 2s ease;
+}

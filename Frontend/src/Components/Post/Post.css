@@ -1,0 +1,23 @@
+/**
+ * @author Vishal Rakesh Jaiswal
+ * @email vs928999@dal.ca
+ */
+.post-container {
+	background: #ffffff;
+	display: flex;
+	flex-direction: column;
+	padding: 1%;
+	margin: 2%;
+}
+.headings {
+	height: 10px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+}
+.image {
+    align-content: center;
+	width: 60%;
+	height: 240px;
+
+}

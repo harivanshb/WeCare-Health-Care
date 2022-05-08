@@ -1,0 +1,42 @@
+.headingtext {
+  text-align: center;
+  width: 100%;
+}
+.screenpage{
+  background-image: url("../../background123.png");
+  align-items: center;
+  background-position: center;
+  min-height: 93vh;
+  background-size: cover;
+  display: flex;
+}
+.buttons{
+  margin-top: 42px;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: white;
+}
+
+.buttonstyle {
+  width: 200px;
+  height: 55px;
+}
+
+@media only screen and (min-width: 1250px) {
+  .buttons {
+    padding: 0 200px;
+  }
+  .title {
+    padding: 0 100px;
+  }
+}
+
+@media only screen and (max-width: 796px) {
+  .title {
+    font-size: 60px;
+  }
+  .buttonstyle {
+    height: 50px;
+    width: 150px;
+  }
+}

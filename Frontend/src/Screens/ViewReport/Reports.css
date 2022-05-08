@@ -1,0 +1,60 @@
+.h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color:  #3498db;
+    text-shadow: 2px 1px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    
+  }
+
+.reportlist{
+    flex:4;
+    height: 450;
+    width:84%;
+    margin:40px;
+    margin-left: 90px;
+}
+.viewreports{
+    display: flex;
+    align-items: center;
+}
+
+.status {
+   
+    font-size: 0.85rem;
+    color: black;
+    background-color:lemonchiffon;
+    border-radius: 60px/30px;
+    padding: 5px 5px;
+    margin-left: 10px;
+    width: 20px;
+    height: 05px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+      
+}
+.head{
+    background-color:cadetblue;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+     font-weight: 150;
+     text-shadow: 0px 1px;
+     text-align: center;
+     font-size: 20 ;
+    
+     
+ }
+ .td{
+    
+     text-align: center;
+     font-family:'Times New Roman', Times, serif;
+     font-weight: 90;
+     font-size:17;
+     margin: 12px 12px 12px 12px;
+     padding: 12px 12px 12px 12px;
+   
+ }

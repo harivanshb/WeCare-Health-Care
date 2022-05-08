@@ -1,0 +1,43 @@
+.form {
+    margin-top:25px;
+    margin-left: 10%;
+    width: 80%;
+    }
+    
+    .grid{
+        display:flex;
+        width: 80%;
+        vertical-align:top;
+        padding-bottom: 0%;
+        border-color: forestgreen;
+    }
+    .url{
+        width: 90%;
+        vertical-align:top;
+        padding-bottom: 100%;
+    }
+    .newpaperstyle{
+        margin: 0px auto;
+        width: 1100;
+        padding: 30px 20px;
+        border-radius: 20;
+        border: 1px solid forestgreen;
+    }
+    .h2style{
+        margin-top: 0%;
+        color:forestgreen;
+        margin-bottom: 0%;
+        font-family:Arial, Helvetica, sans-serif;
+        font-weight: 20%;
+        font-style: normal;
+        margin-left: 25%;
+        margin-bottom: 20px;
+    }
+    .hr{
+        width: 80%;
+        height: 5px;
+        margin-left: 0px;
+        margin-right: auto;
+        background-color: green;
+    }
+    

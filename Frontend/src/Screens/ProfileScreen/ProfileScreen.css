@@ -1,0 +1,9 @@
+.section {
+  display: flex;
+  margin: 20px;
+}
+@media only screen and (max-width: 778px) {
+  .profileContainer {
+    flex-direction: column-reverse;
+  }
+}
